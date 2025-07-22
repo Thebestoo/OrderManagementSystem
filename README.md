@@ -1,6 +1,6 @@
 # Order Management System 🧾🍽️
 
-Here is my **Order Management System** — a C# console application that I built as part of a school programming competition.
+Here is my **Order Management System** a C# console application that I built as part of a school programming competition.
 
 The project was built using **object-oriented programming** principles in C# and includes features such as:
 
@@ -36,4 +36,4 @@ The goal was to simulate a basic restaurant order system with an admin interface
 You can clone the repository and run it in Visual Studio:
 
 ```bash
-git clone https://github.com/your-username/order-management-system.git
+git clone https://github.com/Thebestoo/OrderManagementSystem.git
